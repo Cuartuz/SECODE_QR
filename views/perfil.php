@@ -624,7 +624,7 @@ $compartido=false;      ## Set the varible status in mode false.
                     </li>
                 </ul>
             </div>
-            <div class="redes-sociales">
+            <div class="redes-sociales">sss
                 <a href="dashboard.php" class="boton-redes qr fas fa-qrcode"><i class=""></i></a>
                 <?php #if ( ! $compartido && $suscripcion['CompartirPerfil'] == "SI" ) { ?>
 
